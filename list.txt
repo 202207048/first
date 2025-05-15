@@ -7,3 +7,4 @@ drwxr-xr-x 1 YUHAN 197121     0 Apr 17 14:49 .git/
 -rw-r--r-- 1 YUHAN 197121    66 Apr 17 14:49 README.md
 -rw-r--r-- 1 YUHAN 197121     0 Apr 17 15:11 list.txttes
 test
+:wq
